@@ -52,7 +52,7 @@ Desenvolvedora focada na criação de experiências interativas, unindo lógica 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4d/08/50/4d08509fe5cde6374450cee096449d2f.jpg" width="30%" />
+  <img src="https://i.pinimg.com/736x/4d/08/50/4d08509fe5cde6374450cee096449d2f.jpg" width="15%" />
 </p>
 
 <p align="left">
