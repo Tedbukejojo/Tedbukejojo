@@ -50,7 +50,11 @@ Desenvolvedora focada na criação de experiências interativas, unindo lógica 
 ---
 
 ### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tedbukejojo&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tedbukejojo&layout=compact&theme=dracula" height="150" />
+</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4d/08/50/4d08509fe5cde6374450cee096449d2f.jpg" width="60%" />
+  <img src="https://i.pinimg.com/736x/4d/08/50/4d08509fe5cde6374450cee096449d2f.jpg" width="30%" />
 </p>
